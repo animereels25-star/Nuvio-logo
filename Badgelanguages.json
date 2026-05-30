@@ -1,0 +1,44 @@
+[
+  {
+    "label": "🇮🇳 HIN",
+    "regex": "(?i)\\b(hindi|hin)\\b",
+    "backgroundColor": "#FF9800",
+    "textColor": "#000000"
+  },
+  {
+    "label": "🇬🇧 ENG",
+    "regex": "(?i)\\b(english|eng)\\b",
+    "backgroundColor": "#1E88E5",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "label": "🇮🇳 TAM",
+    "regex": "(?i)\\b(tamil|tam)\\b",
+    "backgroundColor": "#E53935",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "label": "🇮🇳 TEL",
+    "regex": "(?i)\\b(telugu|tel)\\b",
+    "backgroundColor": "#8E24AA",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "label": "🇮🇳 MAL",
+    "regex": "(?i)\\b(malayalam|mal)\\b",
+    "backgroundColor": "#43A047",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "label": "🇮🇳 KAN",
+    "regex": "(?i)\\b(kannada|kan)\\b",
+    "backgroundColor": "#00897B",
+    "textColor": "#FFFFFF"
+  },
+  {
+    "label": "🎵 MULTI",
+    "regex": "(?i)(multi.?audio|hindi\\s*/\\s*tamil|tam\\s*\\+\\s*tel)",
+    "backgroundColor": "#212121",
+    "textColor": "#FFFFFF"
+  }
+]
